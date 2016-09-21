@@ -1,0 +1,6 @@
+{
+  "name": "Caisr.GitHub.io",
+  "tagline": "Describing our tools and imaging workflows",
+  "body": "## Volgenmodel\r\nhttps://github.com/CAIsr/volgenmodel\r\n\r\nvolgenmodel creates nonlinear models from a series of input MINC files - modelling was originally created as part of the ANDI project funded by DCRC\r\n\r\n\r\n\r\n\r\n## Volgenmodel-nipype\r\nhttps://github.com/CAIsr/volgenmodel-nipype\r\n\r\nvolgenmodel-nipype is the port of volgenmodel to nipype. It creates nonlinear models from a series of input MINC files.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
