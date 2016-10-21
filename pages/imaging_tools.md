@@ -10,26 +10,26 @@ These workflows may use either individual or a combination of the software toolb
 In this page we provide a brief description of these tools and their functionality.
 
 1. <dl>
-   <dd> <h4 style="color:#810541;"> Minc: </h4> </dd>
+   <dd> <h4 style="color:#6e6a6b;"> Minc: </h4> </dd>
    </dl>
    
     Minc toolbox uses minc data format. 
 
 
 2. <dl>
-   <dd> <h4 style="color:#810541;"> FSL: </h4> </dd>
+   <dd> <h4 style="color:#6e6a6b;"> FSL: </h4> </dd>
    </dl>
 
 3. <dl>
-   <dd> <h4 style="color:#810541;"> SPM: </h4> </dd>
+   <dd> <h4 style="color:#6e6a6b;"> SPM: </h4> </dd>
    </dl>
 
 4. <dl>
-   <dd> <h4 style="color:#810541;"> MATLAB: </h4> </dd>
+   <dd> <h4 style="color:#6e6a6b;"> MATLAB: </h4> </dd>
    </dl>
 
 5. <dl>
-   <dd> <h4 style="color:#810541;"> Python: </h4> </dd>
+   <dd> <h4 style="color:#6e6a6b;"> Python: </h4> </dd>
    </dl>
    
    Python is a friendly and easy to learn software language. It can run on almost all major operating systems
@@ -60,15 +60,15 @@ In this page we provide a brief description of these tools and their functionali
    * Interactive console and support for scientific tools such as Numpy, Matplotlib etc.
 
 6. <dl>
-   <dd> <h4 style="color:#810541;"> FreeSurfer: </h4> </dd>
+   <dd> <h4 style="color:#6e6a6b;"> FreeSurfer: </h4> </dd>
    </dl>
 
 7. <dl>
-   <dd> <h4 style="color:#810541;"> Mipav: </h4> </dd>
+   <dd> <h4 style="color:#6e6a6b;"> Mipav: </h4> </dd>
    </dl>
    
 8. <dl>
-   <dd> <h4 style="color:#810541;"> Nipype: </h4> </dd>
+   <dd> <h4 style="color:#6e6a6b;"> Nipype: </h4> </dd>
    </dl>
    
    Nipype is an open source neuroimaging toolbox based on python language.
