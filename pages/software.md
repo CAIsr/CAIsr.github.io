@@ -8,7 +8,7 @@ Following is a comprehensive list of all imaging tools and pipelines developed o
 
 
 1. <dl>
-   <dd> <h3 style="color:#6e6a6b;"> volgenmodel: </h3> </dd>
+   <dd> <h3 style="color:#6a287e;"> volgenmodel: </h3> </dd>
    </dl> 
 
    Atlas building software tool avaliable as perl script [volgenmodel](volgenmodel.html).
@@ -18,7 +18,7 @@ Following is a comprehensive list of all imaging tools and pipelines developed o
 
 
 2. <dl>
-   <dd> <h3 style="color:#6e6a6b;"> volgenmodel-nipype: </h3> </dd>
+   <dd> <h3 style="color:#6a287e;"> volgenmodel-nipype: </h3> </dd>
    </dl>   
 
    Minimum deformation atlas buidling software similar to *volgenmodel* using nipype and Minc framework; 
