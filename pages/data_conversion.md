@@ -8,14 +8,11 @@ description: Overview of data conversion and types
    <dd> <h4 style="color:#810541;">Dicom to Minc: </h4></dd>
    </dl>
    
-2. <dl> 
-   <dd> <h4 style="color:#810541;"> Dicom to Nifti: </h4></dd>
+2. <dl> <dd> <h4 style="color:#810541;"> Dicom to Nifti: </h4></dd>
    </dl>
 
-3. <dl>  
-   <dd> <h4 style="color:#810541;">SPM and MATLAB: </h4></dd>
+3. <dl> <dd> <h4 style="color:#810541;">SPM and MATLAB: </h4></dd>
    </dl>
    
-4. <dl>
-   <dd> <h4 style="color:#810541;">Others: </h4></dd>   
+4. <dl> <dd> <h4 style="color:#810541;">Others: </h4></dd>   
    </dl>
