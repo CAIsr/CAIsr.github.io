@@ -9,7 +9,7 @@ description: Overview of data conversion and types
    </dl>
    
 2. <dl> 
-   <dd> <h4 style="color:#810541;">Dicom to Nifti: </h4></dd>
+   <dd> <h4 style="color:#810541;"> Dicom to Nifti: </h4></dd>
    </dl>
 
 3. <dl>  
