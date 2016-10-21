@@ -4,6 +4,9 @@ title: About
 
 description: CAIsr main page
 ---
+
+![alt text](/images/CAIsr.png)
+
 CAIsr is a software repository containing tools and imaging workflows that are either developed or contributed to at the Centre for Advanced Imaging, 
 University of Queensland.
 
