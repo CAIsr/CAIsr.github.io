@@ -12,7 +12,7 @@ In this page we provide a brief description of these tools and their functionali
 <dl>
 <dd> <h4 style="color:#990099;"> Minc: </h4> </dd>
 </dl>
-   
+
 [MINC](http://www.bic.mni.mcgill.ca/ServicesSoftware/MINC) file format and toolbox was originally conceived by
 Peter Neelin to deal with variations in the multiple file formats obtainer from varying scanners and different research groups.
 The original file format and tools were based on NetCDF format and was unbale to handle large datasets. As a result a new version,
@@ -26,11 +26,7 @@ MINC toolbox uses minc(.mnc) data format.
     
 Some of the following features offered by MINC file format makes it advatangeous to work with at CAI.
     
-* MINC is inherently N-dimensional where data can be structured with any number of spatial or temporal dimensions.
-    
-* MINC is multimodal and can be used to store CT, MRI, PET and other medical imaging data.
-    
-* MINC data an be defined in both voxel and world coordinate system.
+
    
 At CAI the human brain atlas workflow primarily utilizes MINC data type and tools in its pipeline. Further information about the 
 atlas can be found at [volgenmodel-nipype](https://github.com/CAIsr/volgenmodel-nipype). Also, prior to the atlas building; 
