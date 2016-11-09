@@ -107,8 +107,7 @@ which makes it very attractive for use.
 At CAI we use python for efficient and clean implementation of our [Nipype](http://nipype.readthedocs.io/en/latest/) workflows for
 image analysis.
    
-An example of use of python algorithm for building the human brain atlas can be found in [volgenmodel-nipype]
-(https://github.com/CAIsr/volgenmodel-nipype)
+An example of use of python algorithm for building the human brain atlas can be found at [volgenmodel-nipype](https://github.com/CAIsr/volgenmodel-nipype)
    
 <dl>
 <dd> <br> </dd>
