@@ -84,7 +84,7 @@ GitHub link [volgenmodel-nipype](https://github.com/CAIsr/volgenmodel-nipype)
 
 <dl>
 
-<dd> <h3 style="color:#e6e6ff;"> Contributors: </h3> </dd>
+<dd> <h3 style="color:#990099;"> Contributors: </h3> </dd>
 
 <dd> <blockquote> <div style="background-color:#e6e6ff; font-style:normal; font-family:Times New Roman;"> <br>
 
