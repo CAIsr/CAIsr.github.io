@@ -25,11 +25,12 @@ installation can be found [here](http://bic-mni.github.io/#notes-about-versions)
 MINC toolbox uses minc(.mnc) data format.
     
 Some of the following features offered by MINC file format makes it advatangeous to work with at CAI.
--MINC is inherently N-dimensional where data can be structured with any number of spatial or temporal dimensions.
 
--MINC is multimodal and can be used to store CT, MRI, PET and other medical imaging data.
+* MINC is inherently N-dimensional where data can be structured with any number of spatial or temporal dimensions.
 
-MINC data an be defined in both voxel and world coordinate system.
+* MINC is multimodal and can be used to store CT, MRI, PET and other medical imaging data.
+
+* MINC data an be defined in both voxel and world coordinate system.
 
 At CAI the human brain atlas workflow primarily utilizes MINC data type and tools in its pipeline. Further information about the 
 atlas can be found at [volgenmodel-nipype](https://github.com/CAIsr/volgenmodel-nipype). Also, prior to the atlas building; 
@@ -92,12 +93,12 @@ Python is a friendly and easy to learn software language. It can run on almost a
 In addition it can also be used for either web-based or stand-alone applications. [Python](https://ww.python.org/)
 is object oriented language and can support both multi-processing and multi-threading.
    
-ome of its features include dynamic type system, automatic memory management and it is supported by both a comprehensive
+Some of its features include dynamic type system, automatic memory management and it is supported by both a comprehensive
 standard library and open-source contributions by its users.
    
 [Python](https://ww.python.org/) license is administered by Python Software Foundation and is an open-source license.
    
-t CAI we use [PyCharm](https://www.jetbrains.com/pycharm/) as our choice of Python interpreter which further allows us to interface
+At CAI we use [PyCharm](https://www.jetbrains.com/pycharm/) as our choice of Python interpreter which further allows us to interface
 other software toolbox such as Nipype, FreeSurfer, FSL etc.
    
 PyCharm offers intelligent code assistance, version controls with Git or SVN in addition to web-development and a powerful debugger
@@ -125,7 +126,7 @@ At CAI, FreeSurfer is often used for subcortical & cortical segmentation.
    
 <dl>
 <dd> <br> </dd>
-/dl>
+</dl>
 
 <dl>
 <dd> <h4 style="color:#990099;"> Mipav: </h4> </dd>
@@ -146,7 +147,6 @@ choice of software tool to perform certain imaging tasks specific to their appli
 own workflow. 
    
 Advantages of [Nipype](http://nipy.org/nipype/0.10.0/) as also stated on their website is given as below,
-* easy interaction with multiple softwares
 
 * easy interaction with multiple softwares 
 
@@ -175,10 +175,10 @@ function within the pipeline.
 At CAI, for the purposes of reproducible research we have dockerized our atlas building toolbox into
 Docker container, so that people can execute and replicate the study and also use it for further 
 testing and analysis with their own datasets. The docker version of the human brain atlas using python,
-minc and nipype can be found [here].
+minc and nipype can be found [here](https://github.com/CAIsr/volgenmodel-nipype).
   
 The user should have already installed [Docker](https://docs.docker.com/) on their container and clone the necessary repositories
-from [CAISr] github to execute the atlas.
+from [CAISr](https://github.com/CAIsr/volgenmodel-nipype) github to execute the atlas.
   
 Docker helps to run applications in a securely isolated container. It is able to package all its
 dependencies and libraries. Containers are lightweight, one can run a variety of applications 
