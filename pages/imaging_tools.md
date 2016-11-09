@@ -10,7 +10,7 @@ These workflows may use either individual or a combination of the software toolb
 In this page we provide a brief description of these tools and their functionality.
 
 1. <dl>
-   <dd> <h4 style="color:#6a287e;"> Minc: </h4> </dd>
+   <dd> <h4 style="color:#990099;"> Minc: </h4> </dd>
    </dl>
    
     Minc toolbox uses minc data format. 
