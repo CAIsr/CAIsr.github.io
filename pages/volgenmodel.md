@@ -13,3 +13,18 @@ The workflow is similar to that of 'Volgenmodel-Nipype' described in the followi
 This source code is based on perl script.
 
 GitHub link [volgenmodel](https://github.com/CAIsr/volgenmodel)
+
+  
+  
+<dl>
+
+<dd> <h3 style="color:#990099;"> Contributors: </h3> </dd>
+
+<dd> <blockquote> <div style="background-color:#e6e6ff; font-style:normal; font-family:Times New Roman;"> <br>
+
+A. Janke <br>
+<br>
+
+</div></blockquote> </dd>
+
+</dl>
