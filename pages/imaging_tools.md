@@ -9,9 +9,9 @@ These workflows may use either individual or a combination of the software toolb
 
 In this page we provide a brief description of these tools and their functionality and the imaging workflows developed using them at CAI.
 
-1. <dl>
-   <dd> <h4 style="color:#990099;"> Minc: </h4> </dd>
-   </dl>
+<dl>
+<dd> <h4 style="color:#990099;"> Minc: </h4> </dd>
+</dl>
    
     [MINC](http://www.bic.mni.mcgill.ca/ServicesSoftware/MINC) file format and toolbox was originally conceived by
     Peter Neelin to deal with variations in the multiple file formats obtainer from varying scanners and different research groups.
