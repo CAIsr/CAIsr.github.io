@@ -7,13 +7,24 @@ description: Overview of CAI imaging tools
 At CAI we have developed imaging workflows using multiple software tools such as MINC, FSL, SPM, FreeSurfer, Nipype etc.
 These workflows may use either individual or a combination of the software toolbox mentioned below. 
 
-In this page we provide a brief description of these tools and their functionality.
+In this page we provide a brief description of these tools and their functionality and the imaging workflows developed using them at CAI.
 
 1. <dl>
    <dd> <h4 style="color:#990099;"> Minc: </h4> </dd>
    </dl>
    
-    Minc toolbox uses minc data format. 
+    :[MINC](http://www.bic.mni.mcgill.ca/ServicesSoftware/MINC) file format and toolbox was originally conceived by
+    Peter Neelin to deal with variations in the multiple file formats obtainer from varying scanners and different research groups.
+    The original file format and tools were based on NetCDF format and was unbale to handle large datasets. As a result a new version,
+    MINC2 was proposed in 2003. In addition MINC toolkit was developed and is an effort by dr. Vladimir Fonov. The toolkit consists of 
+    most commonly used minc tools packaged under 64 bit binary for Debian, Ubuntu and Mac OS X. MINC toolkit also offers interactive
+    visualization tools such as MINC [register](http://www.bic.mni.mcgill.ca/software/register/register.html) and [Display]
+    (http://www.bic.mni.mcgill.ca/software/Display/Display.html). Additional information about software packages, releases and their 
+    installation can be found [here](http://bic-mni.github.io/#notes-about-versions). 
+    
+    MINC toolbox uses minc(.mnc) data format.
+    
+    
 
 
 2. <dl>
