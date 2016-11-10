@@ -36,8 +36,7 @@ At CAI the human brain atlas workflow primarily utilizes MINC data type and tool
 atlas can be found at [volgenmodel-nipype](https://github.com/CAIsr/volgenmodel-nipype). Also, prior to the atlas building; 
 we convert the necessary DICOM datasets into MINC (.mnc) file format. The atlas workflow implements several of the MINC tools
 such as minc bigaverage, resample, volcentre etc. It also conducts linear and nonlinear registration using BestLinReg and Nlpfit
-provided by the MINC toolbox. Further information about these tools can be found [here]
-(http://nipype.readthedocs.io/en/latest/interfaces/generated/nipype.interfaces.minc.minc.html); these tools can be executed 
+provided by the MINC toolbox. Further information about these tools can be found [here](http://nipype.readthedocs.io/en/latest/interfaces/generated/nipype.interfaces.minc.minc.html); these tools can be executed 
 either though the command prompt or the [Nipype](http://nipype.readthedocs.io/en/latest/) workflow.
     
 <dl>
