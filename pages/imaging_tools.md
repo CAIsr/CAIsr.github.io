@@ -53,8 +53,7 @@ imaging data.
    
 An overview of FSL tools can be found [here](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslOverview). Some of the commonly utilized
 tools include [FLIRT](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FLIRT) & [FNIRT](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FNIRT) for linear
-and nonlinear registration; [FAST](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FAST) for tissue type segmentation and [MCFLIRT]
-(http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MCFLIRT) for head motion correction.
+and nonlinear registration; [FAST](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FAST) for tissue type segmentation and [MCFLIRT](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/MCFLIRT) for head motion correction.
   
 FSL toolbox also comes with FSLView for 3D/4D image, time-series and surface visualization.
    
