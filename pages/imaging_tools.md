@@ -18,8 +18,7 @@ Peter Neelin to deal with variations in the multiple file formats obtainer from 
 The original file format and tools were based on NetCDF format and was unbale to handle large datasets. As a result a new version,
 MINC2 was proposed in 2003. In addition MINC toolkit was developed and is an effort by dr. Vladimir Fonov. The toolkit consists of 
 most commonly used minc tools packaged under 64 bit binary for Debian, Ubuntu and Mac OS X. MINC toolkit also offers interactive
-visualization tools such as MINC [register](http://www.bic.mni.mcgill.ca/software/register/register.html) and [Display]
-(http://www.bic.mni.mcgill.ca/software/Display/Display.html). Additional information about software packages, releases and their 
+visualization tools such as MINC [register](http://www.bic.mni.mcgill.ca/software/register/register.html) and [Display](http://www.bic.mni.mcgill.ca/software/Display/Display.html). Additional information about software packages, releases and their 
 installation can be found [here](http://bic-mni.github.io/#notes-about-versions). 
     
 MINC toolbox uses minc(.mnc) data format.
