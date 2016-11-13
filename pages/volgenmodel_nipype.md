@@ -18,7 +18,9 @@ resample = pe.MapNode( interface=Resample(sinc_interpolation=True),
                        name='resample_' + snum_txt, 
                        iterfield=['input_file', 'transformation']) 
 ```  
-
+<dl>
+<dd> <br> </dd>
+</dl>
 
 The user should verify their input data format and working directory before sending it to DataGrabber. As demonstrated *FAST_EXAMPLE_BASE_DIR*
 is the path to the input files while *UNI-DEN*/*normStepSize_* is the file type we are calling in this example.
@@ -32,7 +34,9 @@ datasource = pe.Node(interface=nio.DataGrabber(sort_filelist=True), name='dataso
 datasource.inputs.base_directory = os.path.abspath(FAST_EXAMPLE_BASE_DIR) 
 datasource.inputs.template = '*/*UNI-DEN*/*normStepSize_.mnc' 
 ```
-  
+<dl>
+<dd> <br> </dd>
+</dl>  
   
 The complete method used to generate the model is described in the [paper](http://www.ncbi.nlm.nih.gov/pubmed/25620005) 
 and *volgenmodel* program code follows a similar approach in atlas generation.
@@ -41,8 +45,6 @@ The imaging pipeline allows users to change the resolution level, step size and 
 generated. The following section of the code should be reset in order to do this.
 
 Resolution can be reset, using
- 
-  
 
 ```python
 default_conf = [ {'step': 16, 'blur_fwhm': 16, 'iterations': 4}, 
@@ -51,17 +53,19 @@ default_conf = [ {'step': 16, 'blur_fwhm': 16, 'iterations': 4},
                  {'step':  2, 'blur_fwhm':  2, 'iterations': 4}, 
                 ] 
 ```
-  
+<dl>
+<dd> <br> </dd>
+</dl> 
   
 and fit stages can be set using the following section of the code. Note is order to obtain atlas with fine
 details, one should maintain a fit stage of atleast 16 iterations. Step size can be reset using *opt['model_min_step]*.
   
-  
-  
 ```python
  opt['fit_stages'] = 'lin,lin,lin,0,0,0,0,1,1,1,1,2,2,2,2,3,3,3',
 ```
-  
+<dl>
+<dd> <br> </dd>
+</dl>  
   
 The final model can be found in *'/volgenmodel_final_output'*.
 
