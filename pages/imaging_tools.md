@@ -43,7 +43,7 @@ either though the command prompt or the [Nipype](http://nipype.readthedocs.io/en
 </dl>
 
 <dl>
-<dd> <h4 style="color:#990099;"> FSL: </h4> </dd>
+<dd> <h2 style="color:#990099;"> FSL: </h2> </dd>
 </dl>
 
 [FSL](http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/) offers a comprehensive library of analysis tools for FMRI, MRI and DTI brain
@@ -60,7 +60,7 @@ FSL toolbox also comes with FSLView for 3D/4D image, time-series and surface vis
 </dl>  
 
 <dl>
-<dd> <h4 style="color:#990099;"> SPM: </h4> </dd>
+<dd> <h2 style="color:#990099;"> SPM: </h2> </dd>
 </dl>
 
 <dl>
@@ -68,7 +68,7 @@ FSL toolbox also comes with FSLView for 3D/4D image, time-series and surface vis
 </dl>
 
 <dl>
-<dd> <h4 style="color:#990099;"> MATLAB: </h4> </dd>
+<dd> <h2 style="color:#990099;"> MATLAB: </h2> </dd>
 </dl>
    
 MATLAB is a high level language and interactive environment. The matrix based language is a natural way to express computational
@@ -83,7 +83,7 @@ demonstrated in the example for SPM and MATLAB data conversion. It offers object
 </dl>
 
 <dl>
-<dd> <h4 style="color:#990099;"> Python: </h4> </dd>
+<dd> <h2 style="color:#990099;"> Python: </h2> </dd>
 </dl>
    
 Python is a friendly and easy to learn software language. It can run on almost all major operating systems
@@ -111,7 +111,7 @@ An example of use of python algorithm for building the human brain atlas can be 
 </dl> 
 
 <dl>
-<dd> <h4 style="color:#990099;"> FreeSurfer: </h4> </dd>
+<dd> <h2 style="color:#990099;"> FreeSurfer: </h2> </dd>
 </dl>
    
 [FreeSurfer](http://freesurfer.net/) is an opens source software for processing and analysing human brain images. 
@@ -125,11 +125,11 @@ At CAI, FreeSurfer is often used for subcortical & cortical segmentation.
 </dl>
 
 <dl>
-<dd> <h4 style="color:#990099;"> Mipav: </h4> </dd>
+<dd> <h2 style="color:#990099;"> Mipav: </h2> </dd>
 </dl>
    
 <dl>
-<dd> <h4 style="color:#990099;"> Nipype: </h4> </dd>
+<dd> <h2 style="color:#990099;"> Nipype: </h2> </dd>
 </dl>
    
 Nipype is an open source neuroimaging toolbox based on python language which enables Neuroimaging
@@ -165,7 +165,7 @@ function within the pipeline.
 </dl> 
 
 <dl>
-<dd> <h4 style="color:#990099;"> Docker: </h4> </dd>
+<dd> <h2 style="color:#990099;"> Docker: </h2> </dd>
 </dl>
    
 At CAI, for the purposes of reproducible research we have dockerized our atlas building toolbox into
