@@ -18,11 +18,10 @@ resample = pe.MapNode( interface=Resample(sinc_interpolation=True),
                        name='resample_' + snum_txt, 
                        iterfield=['input_file', 'transformation']) 
 ```  
-  
-  
+
+
 The user should verify their input data format and working directory before sending it to DataGrabber. As demonstrated *FAST_EXAMPLE_BASE_DIR*
 is the path to the input files while *UNI-DEN*/*normStepSize_* is the file type we are calling in this example.
-  
   
 ```python
 FAST_EXAMPLE_BASE_DIR = '/data/lfs2/model-mie/controls/'
