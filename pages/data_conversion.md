@@ -21,13 +21,11 @@ dcm2nii <options> <sourcenames>
 ```  
 
 <dl>
-<dd> <br> </dd>
-</dl>
-
-<dl>
 <dd> <h2 style="color:#990099;"> SPM & MATLAB: </h2> </dd>
 </dl>
-SPM has a converter from dicom to Nifti build in. After starting SPM, hit SPM -> Util -> DICOM Import 
+SPM has a converter from dicom to Nifti build in. After starting SPM, click SPM -> Util -> DICOM Import 
+
+
 
 <dl>
 <dd> <h2 style="color:#990099;"> Others: </h2> </dd>
@@ -41,10 +39,4 @@ then run mri_convert:
 ```bash
 mri_convert [options] <in volume> <out volume>
 ```
-
-
-<dl>
-<dd> <br> </dd>
-</dl>
-
 
