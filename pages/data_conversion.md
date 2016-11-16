@@ -21,6 +21,9 @@ dcm2mnc [options] file1 file2 file3 ... destdir
 <dd> <h2 style="color:#990099;"> Dicom to Nifti: </h2> </dd>
 </dl>
 Chris Rorden's dcm2nii works well for this job:
+<dl>
+<dd> <br> </dd>
+</dl>
 ```bash
 dcm2nii <options> <sourcenames>
 ```  
