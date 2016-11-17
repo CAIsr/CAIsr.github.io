@@ -24,7 +24,7 @@ Chris Rorden's dcm2nii works well for this job:
 <dl>
 <dd> <br> </dd>
 </dl>
-```bash
+```shell
 dcm2nii <options> <sourcenames>
 ```  
 
