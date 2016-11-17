@@ -9,11 +9,7 @@ description: Overview of data conversion and types
 </dl>
 dcm2mnc from the minc package can be used. Make sure you have minc sourced in your .bashrc: source /data/lfs2/software/ubuntu14/minc-itk4-1.9.11-20160202/minc-toolkit-config.sh
 
-<dl>
-<dd> <br> </dd>
-</dl>
-
-```python
+```shell
 dcm2mnc [options] file1 file2 file3 ... destdir
 ```  
    
@@ -39,12 +35,12 @@ SPM has a converter from dicom to Nifti build in. After starting SPM, click SPM 
 <dd> <h2 style="color:#990099;"> Others: </h2> </dd>
 </dl>
 Other conversions could be done using mri_convert included in FreeSurfer. Make sure to source FreeSurfer: 
-```bash
+```shell
 export FREESURFER_HOME=/data/lfs2/software/ubuntu14/freesurfer-v6beta-2016-05-14-centos6
 source $FREESURFER_HOME/SetUpFreeSurfer.sh
 ```
 then run mri_convert:
-```bash
+```shell
 mri_convert [options] <in volume> <out volume>
 ```
 
