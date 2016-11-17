@@ -8,7 +8,6 @@ description: Overview of data conversion and types
 <dd> <h2 style="color:#990099;"> Dicom to Minc: </h2> </dd>
 </dl>
 dcm2mnc from the minc package can be used. Make sure you have minc sourced in your .bashrc: source /data/lfs2/software/ubuntu14/minc-itk4-1.9.11-20160202/minc-toolkit-config.sh
-
 ```shell
 dcm2mnc [options] file1 file2 file3 ... destdir
 ```  
@@ -17,9 +16,6 @@ dcm2mnc [options] file1 file2 file3 ... destdir
 <dd> <h2 style="color:#990099;"> Dicom to Nifti: </h2> </dd>
 </dl>
 Chris Rorden's dcm2nii works well for this job:
-<dl>
-<dd> <br> </dd>
-</dl>
 ```shell
 dcm2nii <options> <sourcenames>
 ```  
