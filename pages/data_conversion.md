@@ -21,6 +21,9 @@ dcm2mnc [options] file1 file2 file3 ... destdir
 <dd> <h2 style="color:#990099;"> Dicom to Nifti: </h2> </dd>
 </dl>
 Chris Rorden's [dcm2nii](https://www.nitrc.org/projects/mricron) works well for this job:
+<dl>
+<dd> <br> </dd>
+</dl>
 ```bash
 dcm2nii <options> <sourcenames>
 ```  
@@ -36,11 +39,17 @@ dcm2nii <options> <sourcenames>
 <dd> <h2 style="color:#990099;"> Others: </h2> </dd>
 </dl>
 Other conversions could be done using [mri_convert](https://surfer.nmr.mgh.harvard.edu/pub/docs/html/mri_convert.help.xml.html) included in [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki). Make sure to source FreeSurfer: 
-```shell
+<dl>
+<dd> <br> </dd>
+</dl>
+```bash
 export FREESURFER_HOME=/data/lfs2/software/ubuntu14/freesurfer-v6beta-2016-05-14-centos6
 source $FREESURFER_HOME/SetUpFreeSurfer.sh
 ```
 then run mri_convert:
+<dl>
+<dd> <br> </dd>
+</dl>
 ```shell
 mri_convert [options] <in volume> <out volume>
 ```
