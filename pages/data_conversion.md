@@ -9,6 +9,10 @@ description: Overview of data conversion and types
 </dl>
 dcm2mnc from the minc package can be used. Make sure you have minc sourced in your .bashrc: source /data/lfs2/software/ubuntu14/minc-itk4-1.9.11-20160202/minc-toolkit-config.sh
 <br>
+
+<dl>
+<dd> <br> </dd>
+</dl>
 ```shell
 dcm2mnc [options] file1 file2 file3 ... destdir
 ```  
