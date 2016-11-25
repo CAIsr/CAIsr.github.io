@@ -13,7 +13,7 @@ dcm2mnc from the minc package can be used. Make sure you have minc sourced in yo
 <dl>
 <dd> <br> </dd>
 </dl>
-```shell
+```bash
 dcm2mnc [options] file1 file2 file3 ... destdir
 ```  
    
@@ -21,7 +21,7 @@ dcm2mnc [options] file1 file2 file3 ... destdir
 <dd> <h2 style="color:#990099;"> Dicom to Nifti: </h2> </dd>
 </dl>
 Chris Rorden's dcm2nii works well for this job:
-```shell
+```bash
 dcm2nii <options> <sourcenames>
 ```  
 
