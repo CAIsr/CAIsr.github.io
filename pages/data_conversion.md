@@ -7,7 +7,7 @@ description: Overview of data conversion and types
 <dl>
 <dd> <h2 style="color:#990099;"> Dicom to Minc: </h2> </dd>
 </dl>
-dcm2mnc from the [minc package](https://github.com/BIC-MNI/minc-toolkit-v2){:target="_blank"} can be used. Make sure you have minc sourced in your .bashrc: source /data/lfs2/software/ubuntu14/minc-itk4-1.9.11-20160202/minc-toolkit-config.sh
+dcm2mnc from the [minc package](https://github.com/BIC-MNI/minc-toolkit-v2) can be used. Make sure you have minc sourced in your .bashrc: source /data/lfs2/software/ubuntu14/minc-itk4-1.9.11-20160202/minc-toolkit-config.sh
 <br>
 
 <dl>
