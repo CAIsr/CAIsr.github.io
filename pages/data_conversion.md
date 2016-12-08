@@ -62,7 +62,7 @@ mri_convert [options] <in volume> <out volume>
 ### Data Storage
 
 <dl>
-<dd> <h4 style="color:#990099;"> Imagetrove: </h4> </dd>
+<dd> <h3 style="color:#990099;"> Imagetrove: </h3> </dd>
 </dl>
 
 At CAI we have a comprehensive data storage system available with help of [Imagetrove](https://projects.ands.org.au/id/ERIC08). It is a web-based system used for
