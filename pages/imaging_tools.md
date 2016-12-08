@@ -140,6 +140,10 @@ provides standard user-interface (UI) and remote sharing of data via internet.
 
 It is a Java based application and hence object-oriented with java plug-in for further extension.
 It supports industry-standard image formats such as DICOM, TIFF, Analyze and RAW.
+
+<dl>
+<dd> <br> </dd>
+</dl>
    
 <dl>
 <dd> <h2 style="color:#990099;"> Nipype: </h2> </dd>
