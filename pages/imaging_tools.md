@@ -63,6 +63,12 @@ FSL toolbox also comes with FSLView for 3D/4D image, time-series and surface vis
 <dd> <h2 style="color:#990099;"> SPM: </h2> </dd>
 </dl>
 
+[SPM](http://www.fil.ion.ucl.ac.uk/spm/) is an open source software toolkit for analysis of functional
+imaging data. The software is a suite of MATLAB functions and subroutines and stands for 'Statistical
+Parametric Mapping'. It provides construction and assessment of spatially extended statistical processes
+used to test hypotheses about functional imaging data. SPM is a free but copyright software distributed under
+GNU General Public License as published by Free Software Foundation.
+
 <dl>
 <dd> <br> </dd>
 </dl>
@@ -127,6 +133,13 @@ At CAI, FreeSurfer is often used for subcortical & cortical segmentation.
 <dl>
 <dd> <h2 style="color:#990099;"> Mipav: </h2> </dd>
 </dl>
+
+[MIPAV](https://mipav.cit.nih.gov/)(Medical Image Processing, Analysis, and Visualization) software
+allows quantitative analysis and visualization of medical images of various modalities. It also
+provides standard user-interface (UI) and remote sharing of data via internet.
+
+It is a Java based application and hence object-oriented with java plug-in for further extension.
+It supports industry-standard image formats such as DICOM, TIFF, Analyze and RAW.
    
 <dl>
 <dd> <h2 style="color:#990099;"> Nipype: </h2> </dd>
