@@ -4,6 +4,10 @@ title: Data
 description: Overview of data conversion and types
 ---
 
+### Publicly released Datasets
+We release our brain atlas models on [www.imaging.org.au](http://www.imaging.org.au)
+
+
 ### Data Conversion
 
 <dl>
