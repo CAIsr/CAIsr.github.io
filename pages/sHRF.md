@@ -13,7 +13,7 @@ For in-depth information about the toolkit and methodology involved and publicat
 *'Shan ZY, Wright MJ, Thompson PM, McMahon KL, Blokland GAM, de Zubicaray GI, Martin NG, Vinkhuyzen AE, Reutens DC, 'Modeling of the Hemodynamic Responses
 in Block Design fMRI Studies". J of Cerebral Blood Flow & Metabolism. 2013 Nov [paper](https://www.ncbi.nlm.nih.gov/pubmed/24252847)'*
 
-CAIsr [github] () provides complete toolbox with source code along with the docker file. Further information regarding the toolbox can be obtained from the readme file.
+CAIsr [github] (https://github.com/CAIsr/sHRF) provides complete toolbox with source code along with the docker file. Further information regarding the toolbox can be obtained from the readme file.
 
 <dl>
 <dd> <br> </dd>
@@ -65,13 +65,13 @@ If you wish to test the toolkit with docker on linux computer:
 1. Download or git clone the sHRF repository.
 
    ``` 
-   git clone https://......git
-   ```
+   git clone https://github.com/CAIsr/sHRF
+   ```
    
 2. enter the directory where docker file is located. If you are using command prompt
 
    ```
-   cd directory/docker
+   cd sHRF/Docker
    ```
    
 3. build the image using
