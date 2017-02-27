@@ -65,32 +65,38 @@ If you wish to test the toolkit with docker on linux computer:
 1. Download or git clone the sHRF repository.
 
    ``` 
-   git clone https://github.com/CAIsr/sHRF
+   git clone https://github.com/CAIsr/sHRF.git
+   
    ```
+   
    
 2. enter the directory where docker file is located. If you are using command prompt
 
    ```
    cd sHRF/Docker
+   
    ```
    
 3. build the image using
 
    ```
    docker build --no-cache -t='ia/sHRF' .
+   
    ```
    
 4. run the docker container as follows,
 
    ```
-   docker run -it -v "....location of your MATLAB.....":/usr/local/MATLAB/host -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=unix$DISPLAY ia/sHRF
-   -r "addpath('/opt/SPM/spm8'), addpath('/opt/sHRF/sHRF_v1.2')"
+   docker run -it -v "....location of your MATLAB.....":/usr/local/MATLAB/host -v /tmp/.X11-unix:/tmp/.X11-unix
+   -e DISPLAY=unix$DISPLAY ia/sHRF -r "addpath('/opt/SPM/spm8'), addpath('/opt/sHRF/sHRF_v1.2')"
+   
    ```
    
 5. once the matlab gui opens, straight away type 
 
    ```
    sHRF_TC
+   
    ```
 
 6. This will open another UI and prompt you for inputs as mentioned above.
