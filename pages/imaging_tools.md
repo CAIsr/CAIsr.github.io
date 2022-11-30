@@ -111,6 +111,8 @@ At CAI we use python for efficient and clean implementation of our [Nipype](http
 image analysis.
    
 An example of use of python algorithm for building the human brain atlas can be found at [volgenmodel-nipype](https://github.com/CAIsr/volgenmodel-nipype)
+
+To get to learn more about python programming language can be found here in [python in detail](https://www.scaler.com/topics/python/)
    
 <dl>
 <dd> <br> </dd>
